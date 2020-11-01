@@ -1,0 +1,10 @@
+C:\Users\PC-DELL\source\repos\Arrays - DrawingWithButtons\Arrays - DrawingWithButtons\bin\Debug\Arrays - DrawingWithButtons.exe.config
+C:\Users\PC-DELL\source\repos\Arrays - DrawingWithButtons\Arrays - DrawingWithButtons\bin\Debug\Arrays - DrawingWithButtons.exe
+C:\Users\PC-DELL\source\repos\Arrays - DrawingWithButtons\Arrays - DrawingWithButtons\bin\Debug\Arrays - DrawingWithButtons.pdb
+C:\Users\PC-DELL\source\repos\Arrays - DrawingWithButtons\Arrays - DrawingWithButtons\obj\Debug\Arrays - DrawingWithButtons.csprojAssemblyReference.cache
+C:\Users\PC-DELL\source\repos\Arrays - DrawingWithButtons\Arrays - DrawingWithButtons\obj\Debug\Arrays___DrawingWithButtons.Form.resources
+C:\Users\PC-DELL\source\repos\Arrays - DrawingWithButtons\Arrays - DrawingWithButtons\obj\Debug\Arrays___DrawingWithButtons.Properties.Resources.resources
+C:\Users\PC-DELL\source\repos\Arrays - DrawingWithButtons\Arrays - DrawingWithButtons\obj\Debug\Arrays - DrawingWithButtons.csproj.GenerateResource.cache
+C:\Users\PC-DELL\source\repos\Arrays - DrawingWithButtons\Arrays - DrawingWithButtons\obj\Debug\Arrays - DrawingWithButtons.csproj.CoreCompileInputs.cache
+C:\Users\PC-DELL\source\repos\Arrays - DrawingWithButtons\Arrays - DrawingWithButtons\obj\Debug\Arrays - DrawingWithButtons.exe
+C:\Users\PC-DELL\source\repos\Arrays - DrawingWithButtons\Arrays - DrawingWithButtons\obj\Debug\Arrays - DrawingWithButtons.pdb
